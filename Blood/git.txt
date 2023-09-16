@@ -1,0 +1,9 @@
+first run git.cmd
+
+for clone repository = git clone "git code"
+for check the status = git status
+for change file = cd "file name"
+for back from my file = cd ..
+fit add = git add "file name" // git add . (for add all the file you have changed at a time )
+git commit for staging = git commit -m "message"
+for pussing my file into guthub = git push origin master/main(here master because, you create master branch in our github repository)
